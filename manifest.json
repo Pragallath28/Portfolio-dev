@@ -1,6 +1,7 @@
 {
-  "short_name": "Portfolio app",
+  "short_name": "Portfolio-dev",
   "name": "Portfolio app made with react as part of 'weekend projects' initiative",
+  "homepage": "https://pragallath28.github.io/Portfolio-dev",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,6 +9,13 @@
       "type": "image/x-icon"
     }
   ],
+  "scripts": {
+		"start": "react-scripts start",
+		"build": "react-scripts build",
+		"predeploy": "npm run build",
+		"deploy": "gh-pages -d build",
+		"test": "react-scripts test",
+		"eject": "react-scripts eject"},
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
