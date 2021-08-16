@@ -20,7 +20,7 @@ export default class Projects extends Component {
 											<h3><a href="work.html">Work 01</a></h3>
 											<span>Online Banking Portal</span>
 											<p className="icon">
-												<span><a href="https://github.com/Pragallath28/Onlinebanking.github.io"><i className="icon-share3" /></a></span>
+												<span><a href=""><i className="icon-share3" /></a></span>
 												<span><a href="#"><i className="icon-eye" /> 100</a></span>
 												<span><a href="#"><i className="icon-heart" /> 49</a></span>
 											</p>
