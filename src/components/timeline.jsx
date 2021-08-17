@@ -22,7 +22,14 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Internship at Appin Technology Lab<span>August 2020-September 2020</span></h2>
-                        <p>I recently have joined the Juniper Networs as a Software Developer-Intern in the DevOps team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p>
+                        <p>I spent around one month Learning to design a webpage and creating website.</p>
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Internship at Micrsoft KSI (Knowledge Solution India) <span>August 2020-September 2020</span></h2>
+                        <p>I spent around two months in Online Banking Portal. The project is based on the banking system 
+                        through online.It is designed to show the amount, balance, customer
+                        related information and other services provided are to deposit money, transfer money and also to close the
+                        account.</p>
                       </div>
                     </div>
                   </article>
