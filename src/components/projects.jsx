@@ -17,7 +17,7 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-1.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 01</a></h3>
+											<h3><a href="https://pragallath28.github.io/Onlinebanking.github.io/">Work 01</a></h3>
 											<span>Online Banking Portal</span>
 											<p className="icon">
 												<span><a href=""><i className="icon-share3" /></a></span>
