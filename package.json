@@ -2,7 +2,7 @@
   "name": "portfolio-dev",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://pragallath28.github.io/Portfolio-dev/",
+  "homepage": "https://pragallath28.github.io/Portfolio-dev",
   "dependencies": {
     "deploy-to-github-pages": "^1.0.1",
     "eslint-plugin-import": "^2.25.4",
