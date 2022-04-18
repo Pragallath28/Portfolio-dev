@@ -25,7 +25,7 @@ export default class Timeline extends Component {
                         <p>I spent around one month Learning to design a webpage and creating website.</p>
                       </div>
                       <div className="timeline-label">
-                        <h2>Internship at Micrsoft KSI (Knowledge Solution India) <span>October 2020 - December 2020</span></h2>
+                        <h2>Internship at Microsoft KSI (Knowledge Solution India) <span>October 2020 - December 2020</span></h2>
                         <p>I spent around two months in Online Banking Portal. The project is based on the banking system 
                         through online.It is designed to show the amount, balance, customer
                         related information and other services provided are to deposit money, transfer money and also to close the
