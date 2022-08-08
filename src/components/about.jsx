@@ -14,7 +14,7 @@ export default class About extends Component {
                     <span className="heading-meta">About Us</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
                     <p>I am a Computer Science Graduate Student from Karpagam College of Engineering with B.E as my major.I love exploring new technologies.</p>
-                    <p>I have started reflecting my ideas and thougths through exploring new concepts and i have done several projects On web development. In college days i have participated and got Runner up certificate in Smart India Hackathon 2020 :P </p>
+                    <p>I have started reflecting my ideas and thougths through exploring new concepts and i have done several projects On web development, i have participated and got Runner up certificate in Smart India Hackathon 2020 :P </p>
                     </div>
                 </div>
                 </div>
