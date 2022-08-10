@@ -34,8 +34,6 @@ export default class Sidebar extends Component {
               </ul>
             </nav>
             <div className="colorlib-footer">
-            <p>Support me</p>
-            <p>If you like my work and want to support me, you can do it here ☺.</p>
             <p><a href="https://www.buymeacoffee.com/pragallath28">
             <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="40px"></img></a></p>
             </div>
