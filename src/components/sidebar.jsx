@@ -33,11 +33,11 @@ export default class Sidebar extends Component {
                 <li><a href="https://medium.com/@Pragallath.28" target="_blank" rel="noopener noreferrer"><i className="icon-blogger2"></i></a></li>
               </ul>
             </nav>
-          </aside>
-          <div className="colorlib-footer">
+            <div className="colorlib-footer">
             <p><a href="https://www.buymeacoffee.com/pragallath28">
             <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="40px"></img></a></p>
             </div>
+          </aside>
         </div>
       </div>
     )
