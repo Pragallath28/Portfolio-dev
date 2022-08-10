@@ -33,15 +33,11 @@ export default class Sidebar extends Component {
                 <li><a href="https://medium.com/@Pragallath.28" target="_blank" rel="noopener noreferrer"><i className="icon-blogger2"></i></a></li>
               </ul>
             </nav>
-            {/* <div className="colorlib-footer">
-              <p><small>
-                  Made with <i className="icon-heart" aria-hidden="true" /> and <i className="icon-beer" aria-hidden="true"></i><br></br>
-                  Thanks <a href="https://colorlib.com" target="_blank" rel="noopener noreferrer">Colorlib</a> for inspiration 
-              </small></p>
-              <p><small>
-                Something coming soon !!
-              </small></p>
-            </div> */}
+            <div className="colorlib-footer">
+            <p>Support me</p>
+            <p>If you like my work and want to support me, you can do it here ☺.</p>
+            <p><a href="https://www.buymeacoffee.com/pragallath28" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="40px"></img></a></p>
+            </div>
           </aside>
         </div>
       </div>
