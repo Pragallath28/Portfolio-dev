@@ -9,8 +9,9 @@ export default class Projects extends Component {
 					
 						<span className="heading-meta">My Work</span>
 						<h2 className="colorlib-heading animate-box">Experience</h2>
-							<h3>Cognizant Technology Solutions - Internship (Jan 2022-July 2022)</h3>
+							<h3>Cognizant Technology Solutions - Full-Time (Aug 2022-Present)</h3>
 								<p>In this duration I have learnt Salesforce Developer Modules and Basics of apex and done salesforce pet-projects on Payroll-Processing System using LWC and Apex.</p>
+								<p>I have worked with Humana PCO Centerwell. I got hands-on experience on Lightning Web component and Apex. </p>
 						<div className="colorlib-narrow-content">
 						<div className="row">
 							<div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
