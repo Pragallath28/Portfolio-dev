@@ -38,6 +38,6 @@
     "eslint-plugin-promise": "^6.0.0",
     "eslint-plugin-react": "^7.29.4",
     "eslint-plugin-standard": "^5.0.0",
-    "gh-pages": "^2.2.0"
+    "gh-pages": "^6.2.0"
   }
 }
